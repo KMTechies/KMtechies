@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kian Michael G. Dimaano</h1>
-<h3 align="center">Student</h3>
+<h3 align="center">Engineering Student</h3>
 
 - 🌱 I’m currently learning **Robotics 2**
 - 📖 3rd Year BS Mechatronics Engineering
