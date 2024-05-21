@@ -2,7 +2,7 @@
 <h3 align="center">Student</h3>
 
 - 🌱 I’m currently learning **Robotics 2**
-- 3rd Year Mechatronics
+- 3rd Year Mechatronics Engineering
 
 - 👨‍💻 All of my projects are available at [https://github.com/KMTechies](https://github.com/KMTechies)
 
