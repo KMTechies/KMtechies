@@ -5,6 +5,7 @@
 - 📖 3rd Year BS Mechatronics Engineering
 - ♓ Pisces
 - 👀 I’m interested in coding
+- ⚡
 - 👨‍💻 All of my projects are available at [https://github.com/KMTechies](https://github.com/KMTechies)
 - 📩 Contact me at: kiangonzalesdimaano@gmail.com
 
