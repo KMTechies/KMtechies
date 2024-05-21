@@ -2,7 +2,7 @@
 <h3 align="center">Student</h3>
 
 - 🌱 I’m currently learning **Robotics 2**
-- 3rd Year BS Mechatronics Engineering
+- 📖 3rd Year BS Mechatronics Engineering
 - 22 Years Old
 - 👨‍💻 All of my projects are available at [https://github.com/KMTechies](https://github.com/KMTechies)
 
