@@ -2,7 +2,7 @@
 <h3 align="center">Engineering Student</h3>
 
 - 🌱 I’m currently learning **Robotics 2**
-- 📖 3rd Year BS Mechatronics Engineering
+- 📖 BS Mechatronics Engineering
 - ♓ Pisces
 - 👀 I’m interested in coding
 - ⚡ Fun Fact: I love animals
